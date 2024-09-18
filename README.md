@@ -15,12 +15,18 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
+
+
+
+
+
+
 ## My Statistics
 
 <br/>
 <p align="left">
   <a href="https://nethmipremathilake1234.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=nethmipremathilake1234s&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=nethmipremathilake1234&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=nethmipremathilake1234&theme=gruvbox&hide_border=true" />
   </a>
 </p>
