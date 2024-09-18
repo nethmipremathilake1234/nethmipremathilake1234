@@ -13,6 +13,21 @@
 
 - ⚡ Fun fact **call me as neth**
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+## My Statistics
+
+<br/>
+<p align="left">
+  <a href="https://nethmipremathilake1234.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=nethmipremathilake1234s&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=nethmipremathilake1234&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
+
+[![nethmipremathilake1234' Activity Graph](https://activity-graph.herokuapp.com/graph?username=nethmipremathilake1234&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://nethmipremathilake1234.dev)
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nethprem13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nethprem13" height="30" width="40" /></a>
