@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm nethmi premathilake</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<h3 align="center" style="background-color: lightblue; padding: 10px;">
-
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nethmipremathilake1234&label=Profile%20views&color=0e75b6&style=flat" alt="nethmipremathilake1234" /> </p>
