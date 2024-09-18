@@ -1,4 +1,4 @@
-![nethmipremathilake1234 Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+
 
 <h1 align="center">Hi 👋, I'm nethmi premathilake</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
